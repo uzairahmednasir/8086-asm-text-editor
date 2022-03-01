@@ -1,5 +1,7 @@
 # Simple Command Line based Text Editor written in 8086 16-bit Assembly Language (MASM Style)
-## tested in emu8086
+### tested in emu8086
+
+this is my Semester Final Project for **Computer Organization & Assembly Language** Course
 
 ## Model Diagram:
 
